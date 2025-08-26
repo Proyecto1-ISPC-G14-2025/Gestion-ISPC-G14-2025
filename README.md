@@ -35,7 +35,7 @@ Configura la base de datos MySQL.
 <br/>
 * Nicolas Elias Calmucci - Usuario Github: Eleven1433 / Scrum master - Desarrollador
 <br/>
-* Juan Ignacio Alonso - Usuario Github: juanignacioalonso - Desarrollador
+* Juan Ignacio Alonso Flieller - Usuario Github: juanignacioalonso - Desarrollador
 <br/>
 * Cesar Ramiro Ruggieri - Usuario Github: subrami22 - Desarrollador
 <br/>
