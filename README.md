@@ -39,14 +39,3 @@ Configura la base de datos MySQL.
 <br/>
 * Cesar Ramiro Ruggieri - Usuario Github: subrami22 - Desarrollador
 <br/>
-
-
-
-## :pushpin: Link Organizacion y Repositorio Segundo Cuatrimestre 2025 para el Modulo Gestion de Contenidos 
-<br/>
-
-:radio_button: [Organizacion](https://github.com/Proyecto1-ISPC-G14-2025) 
-<br/>
-
-:radio_button: [Repositorio del proyecto](https://github.com/Proyecto1-ISPC-G14-2025/Gestion-ISPC-G14-2025)
-<br/>
