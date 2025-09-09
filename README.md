@@ -3,7 +3,7 @@
 
 ## :pushpin: Descripción
 
-Desarrollo de porfolio de de Farmastock donde se mostrara a nuestros clientes nuestro catalogo de productos
+Desarrollo de porfolio de de Farmastock donde se mostrara a nuestros clientes nuestro catalogo de productos relacionados con inventarios para farmacias y centros de salud.
 
 Base de datos: Se usa MySQL como gestor relacional para almacenar de forma estructurada toda la información.
 
