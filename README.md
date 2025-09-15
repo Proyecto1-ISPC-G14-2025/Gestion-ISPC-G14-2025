@@ -1,4 +1,4 @@
-# :pill: Gestion G14
+﻿# :pill: Gestion G14
 
 
 ## :pushpin: Descripción
@@ -29,6 +29,7 @@ Configura el entorno WordPress.
 Configura la base de datos MySQL.
 
 
+### Nota: El .zip subido a este repositorio corresponde al backup completo del sitio realizado con el plugin Duplicate.
 
 
 ## :muscle: Integrantes
