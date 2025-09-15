@@ -1,4 +1,4 @@
-﻿# :pill: Gestion G14
+﻿# :pill: Grupo 14 Sistemas de gestion de inventarios de medicamentos
 
 
 ## :pushpin: Descripción
