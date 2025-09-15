@@ -30,6 +30,9 @@ Configura la base de datos MySQL.
 
 
 ### Nota: El .zip subido a este repositorio corresponde al backup completo del sitio realizado con el plugin Duplicator.
+
+<img width="325" height="127" alt="image" src="https://github.com/user-attachments/assets/4dfed22a-286f-4a26-9bbe-4c445940d5f6" />
+
 <img width="1115" height="514" alt="image" src="https://github.com/user-attachments/assets/b19c5cec-8708-4c57-b0c3-bd22cbe4e6ca" />
 
 
