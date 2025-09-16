@@ -3,7 +3,9 @@
 
 ## :pushpin: Descripción
 
-Desarrollo de porfolio de de Farmastock donde se mostrara a nuestros clientes nuestro catalogo de productos relacionados con inventarios para farmacias y centros de salud.
+Desarrollo de porfolio de sistemas de inventarios para centros medicos, donde se mostrara a nuestros clientes nuestro catalogo de productos relacionados con inventarios para farmacias y centros de salud.
+
+El producto estrella que estamos desarrollando es Farmastock sistema de gestion de inventario de medicamentos.
 
 Base de datos: Se usa MySQL como gestor relacional para almacenar de forma estructurada toda la información.
 
