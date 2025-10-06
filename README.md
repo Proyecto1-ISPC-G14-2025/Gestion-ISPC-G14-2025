@@ -1,9 +1,11 @@
-# :pill: Gestion G14
+﻿# :pill: Grupo 14 Sistemas de gestion de inventarios de medicamentos
 
 
 ## :pushpin: Descripción
 
-Desarrollo de porfolio de de Farmastock donde se mostrara a nuestros clientes nuestro catalogo de productos
+Desarrollo de porfolio de sistemas de inventarios para centros medicos, donde se mostrara a nuestros clientes nuestro catalogo de productos relacionados con inventarios para farmacias y centros de salud.
+
+El producto estrella que estamos desarrollando es Farmastock sistema de gestion de inventario de medicamentos.
 
 Base de datos: Se usa MySQL como gestor relacional para almacenar de forma estructurada toda la información.
 
@@ -29,6 +31,11 @@ Configura el entorno WordPress.
 Configura la base de datos MySQL.
 
 
+### Nota: El .zip subido a este repositorio corresponde al backup completo del sitio realizado con el plugin Duplicator.
+
+<img width="325" height="127" alt="image" src="https://github.com/user-attachments/assets/4dfed22a-286f-4a26-9bbe-4c445940d5f6" />
+
+<img width="1115" height="514" alt="image" src="https://github.com/user-attachments/assets/b19c5cec-8708-4c57-b0c3-bd22cbe4e6ca" />
 
 
 ## :muscle: Integrantes
@@ -38,4 +45,15 @@ Configura la base de datos MySQL.
 * Juan Ignacio Alonso Flieller - Usuario Github: juanignacioalonso - Desarrollador
 <br/>
 * Cesar Ramiro Ruggieri - Usuario Github: subrami22 - Desarrollador
+<br/>
+
+
+
+## :pushpin: Link Organizacion y Repositorio Segundo Cuatrimestre 2025 para el Modulo Gestion de Contenidos 
+<br/>
+
+:radio_button: [Organizacion](https://github.com/Proyecto1-ISPC-G14-2025) 
+<br/>
+
+:radio_button: [Repositorio del proyecto](https://github.com/Proyecto1-ISPC-G14-2025/Gestion-ISPC-G14-2025)
 <br/>
